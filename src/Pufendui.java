@@ -14,23 +14,12 @@ public class Pufendui extends Hogwarts {
         return industrious;
     }
 
-    public void setIndustrious(int industrious) {
-        this.industrious = industrious;
-    }
-
     public int getFaithful() {
         return faithful;
-    }
-
-    public void setFaithful(int faithful) {
-        this.faithful = faithful;
     }
 
     public int getHonesty() {
         return honesty;
     }
 
-    public void setHonesty(int honesty) {
-        this.honesty = honesty;
-    }
 }

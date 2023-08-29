@@ -18,40 +18,20 @@ public class Slyzerin extends Hogwarts {
         return cunning;
     }
 
-    public void setCunning(int cunning) {
-        this.cunning = cunning;
-    }
-
     public int getDetermition() {
         return determition;
-    }
-
-    public void setDetermition(int determition) {
-        this.determition = determition;
     }
 
     public int getAmbition() {
         return ambition;
     }
 
-    public void setAmbition(int ambition) {
-        this.ambition = ambition;
-    }
-
     public int getResourcefulness() {
         return resourcefulness;
     }
 
-    public void setResourcefulness(int resourcefulness) {
-        this.resourcefulness = resourcefulness;
-    }
-
     public int getLustForPower() {
         return lustForPower;
-    }
-
-    public void setLustForPower(int lustForPower) {
-        this.lustForPower = lustForPower;
     }
 
 }

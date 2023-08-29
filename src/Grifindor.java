@@ -14,23 +14,12 @@ public class Grifindor extends Hogwarts {
         return royal;
     }
 
-    public void setRoyal(int royal) {
-        this.royal = royal;
-    }
-
     public int getHonest() {
         return honest;
-    }
-
-    public void setHonest(int honest) {
-        this.honest = honest;
     }
 
     public int getBrave() {
         return brave;
     }
 
-    public void setBrave(int brave) {
-        this.brave = brave;
-    }
 }
