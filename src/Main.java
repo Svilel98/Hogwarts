@@ -43,6 +43,6 @@ public class Main {
         printStudent.comparisonStudentOnPufenduis(pufenduis[1], pufenduis[0]);
         printStudent.comparisonStudentOnKogtevran(kogtevrans[1], kogtevrans[0]);
         printStudent.comparisonStudentOnSlyzerin(slyzerins[1], slyzerins[0]);
-        printStudent.comparisionStudentOnHogwarts(student[3], student[10]);
+        printStudent.comparisionStudentOnHogwarts(student[3],student[10]);
     }
 }
